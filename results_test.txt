@@ -1,0 +1,4 @@
+Model               	Val PSNR  	Test PSNR 	Val Time [ms] 	Test Time [ms]	Ave Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
+    
+03_LKFN      	        26.93     		27.04      		12.88         	10.20         	11.54   0.090     	5.81      	174.03  	671.17  	 158    
+  
